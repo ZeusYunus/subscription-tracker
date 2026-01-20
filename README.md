@@ -8,3 +8,6 @@ npm install --save-dev nodemon
 
 ## Adding a linter to keep the code clean
 npx eslint --init
+
+## Used to get Environment variables
+npm install dotenv
