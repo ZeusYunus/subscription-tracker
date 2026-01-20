@@ -11,3 +11,9 @@ npx eslint --init
 
 ## Used to get Environment variables
 npm install dotenv
+
+## MongoDB Driver install
+npm install mongodb
+
+## ORM for mongodb
+npm install mongoose
