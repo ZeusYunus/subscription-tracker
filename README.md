@@ -17,3 +17,6 @@ npm install mongodb
 
 ## ORM for mongodb
 npm install mongoose
+
+## Authentication
+npm install jsonwebtoken bcryptjs
