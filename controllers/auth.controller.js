@@ -84,13 +84,14 @@ export const signIn = async (req, res, next) => {
         );
 
         const userObj = user.toObject();
-        delete userObj.password;
+        // delete userObj.password;
 
         res.status(200).json({
             success: true,
+            message: "User signed in successfully",
             data: {
-                user: userObj,
                 token,
+                user: userObj, 
             },
         });
     } catch (error) {
