@@ -20,3 +20,6 @@ npm install mongoose
 
 ## Authentication
 npm install jsonwebtoken bcryptjs
+
+## Rate limiting and bot protections
+npm i @arcjet/node @arcjet/inspect
