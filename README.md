@@ -37,3 +37,6 @@ npm install dayjs
 
 ## Free and open source mailer for node
 npm install nodemailer
+
+## To keep everything up and running thrugh crashes
+npm install -g pm2
