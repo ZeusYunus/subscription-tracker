@@ -23,3 +23,17 @@ npm install jsonwebtoken bcryptjs
 
 ## Rate limiting and bot protections
 npm i @arcjet/node @arcjet/inspect
+
+## Installing upstash for workflows
+npm install @upstash/workflow
+
+## Upstash dev envirnoment for testing in a new terminal
+npx @upstash/qstash-cli dev
+
+## Date package
+npm install dayjs
+
+## ngrok
+
+## Free and open source mailer for node
+npm install nodemailer
