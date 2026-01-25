@@ -40,3 +40,5 @@ npm install nodemailer
 
 ## To keep everything up and running thrugh crashes
 npm install -g pm2
+
+## https://www.youtube.com/watch?v=rOpEN1JDaD0&list=PL8S9HOZ5ieePRY2ml0MqFmuBcTrh-S0qd
